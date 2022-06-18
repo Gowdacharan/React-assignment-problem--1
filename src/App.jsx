@@ -1,14 +1,11 @@
 import React from 'react';
 import './App.css';
+import Body from './Problem1';
 
 function App() {
-  const handleClick = () =>{
-    console.log('hello')
-  }
   return (
     <main>
-      React⚛️ + Vite⚡ + Replit🌀
-      <button onClick={handleClick}>click me</button>
+ <Body/>
     </main>
   );
 }

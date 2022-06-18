@@ -1,5 +1,11 @@
-main {
+#h1{
   text-align: center;
-  vertical-align: center;
-  line-height: 100vh
+  background-color : blue;
 }
+
+#btn{
+  background-color : blue;
+  color: white;
+   text-align: center;
+}
+
